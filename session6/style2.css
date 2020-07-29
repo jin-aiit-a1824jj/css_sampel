@@ -146,3 +146,13 @@ p.ribbon {
     top: 19px;
     right: 30px;
 }
+
+header {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+}
+
+div#wrapper {
+    margin-top: 120px;
+}
