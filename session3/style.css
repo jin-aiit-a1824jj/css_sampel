@@ -54,6 +54,11 @@ div p {
     line-height: 200%;
 }
 
+/* -------------------- フォントの設定を一括で行う方法*/
+header h1 {
+    font: bold 80px/80px 'Lobster', cursive;
+}
+
 /* -------------------- デフォルトのスタイル */
 
 body {
