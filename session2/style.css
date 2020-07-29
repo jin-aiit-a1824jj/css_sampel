@@ -96,6 +96,9 @@ header h1 {
 
 header h2 {
     color: white;
+    font-weight: bold;
+    font-size: 22px;
+    text-align: center;
 }
 
 header nav ul li a {
@@ -108,7 +111,12 @@ section {
     background-color: white;
 }
 
+section#activity {
+    color: #E07933;
+}
+
 footer {
     background-color: #405269;
     color: white;
+    text-align: center;
 }
