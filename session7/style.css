@@ -19,3 +19,7 @@ h2#about_selector {
 li.bold {
     font-weight: bold;
 }
+
+li#text_red {
+    color: red;
+}
