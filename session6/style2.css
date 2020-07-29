@@ -162,3 +162,9 @@ div#news_box {
     overflow: auto;
     overflow-x: hidden;
 }
+
+figure {
+    overflow: hidden;
+    width: 500px;
+    height: 200px;
+}
