@@ -35,6 +35,15 @@ header p {
     font-size: 50px;
 }
 
+/* -------------------- フォントの太さを指定する方法 */
+div p {
+    font-weight: bold;
+}
+
+div h2 {
+    font-weight: normal;
+}
+
 /* -------------------- デフォルトのスタイル */
 
 body {
