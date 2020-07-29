@@ -125,12 +125,18 @@ div#left_side {
 	width: 200px;
 	height: auto;
 	background-color: pink;
+	float: left;
 }
 
 div#right_side {
-	width: 200px;
+	width: 660px;
 	height: auto;
 	background-color: green;
+	float: right;
+}
+
+div.clear {
+	clear: both;
 }
 
 footer {
