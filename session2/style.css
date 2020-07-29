@@ -85,3 +85,16 @@ footer {
     padding: 0;
     list-style: none;
 }
+
+header {
+    color: #000;
+}
+
+section {
+    background-color: white;
+}
+
+footer {
+    background-color: #405269;
+    color: white;
+}
