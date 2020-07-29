@@ -72,10 +72,14 @@ div#design {
     width: 500px;
     height: auto;
     background-color: #ccc;
+    margin: 30px 0 30px 30px;
 }
 
 div#event {
     width: auto;
     height: auto;
     background-color: #ddd;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 30px;
 }
