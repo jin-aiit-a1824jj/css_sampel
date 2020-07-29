@@ -6,23 +6,27 @@
 
 /* -------------------- フォントの種類を指定するCSS */
 
-#sanserif {
+header h1 {
+    font-family: 'Lobster', cursive;
+}
+
+div#sanserif {
     font-family: sans-serif;
 }
 
-#serif {
+div#serif {
     font-family: serif;
 }
 
-#meiryo {
+div#meiryo {
     font-family: "Meiryo", sans-serif;
 }
 
-#comic {
+div#comic {
     font-family: "Comic Sans MS", serif;
 }
 
-#hiragino {
+div#hiragino {
     font-family: "Hiragino Kaku Gothic ProN";
 }
 /* -------------------- デフォルトのスタイル */
