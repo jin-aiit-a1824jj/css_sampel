@@ -1,0 +1,26 @@
+/* -------------------- your css ↓↓ */
+
+h1 {
+    text-align: center;
+    color: red;
+}
+
+div.box {
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: 20px;
+    width: 500px;
+    margin: 0 auto 20px auto;
+}
+
+div#box_selector {
+    border-top: 5px solid #3d2d51;
+}
+
+div#box_list {
+    border-top: 5px solid #3bd5d4;
+}
+
+footer {
+    text-align: center;
+}
