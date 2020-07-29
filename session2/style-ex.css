@@ -47,3 +47,15 @@ nav ul li a {
     text-decoration: none;
     font-size: 18px;
 }
+
+nav ul li a span{
+    font-size: 14px;
+}
+
+nav ul li#current a {
+    color: #3D2D51;
+}
+
+nav ul li#current a span {
+    border-color: #3D2D51;
+}
