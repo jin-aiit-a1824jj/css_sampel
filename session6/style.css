@@ -138,3 +138,8 @@ footer {
 	height: 60px;
 	background-color: gray;
 }
+
+div#wrapper {
+	margin: 0 auto 0 auto;
+	width: 900px;
+}
