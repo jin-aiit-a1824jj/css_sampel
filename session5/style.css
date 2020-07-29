@@ -70,6 +70,8 @@ header {
 
 div#background-img {
     background: url('img/bg.jpg'); /* no-repeat right top; repeat-x repeat-y*/
-
 }
 
+div#background-img a {
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
