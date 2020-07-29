@@ -12,3 +12,6 @@ h2 {
     color: gray;
 }
 
+h2#about_selector {
+   color:  pink;
+}
