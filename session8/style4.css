@@ -1,0 +1,13 @@
+/* -------------------- your css ↓↓ */
+
+div p {
+    background-color: pink;
+}
+
+div p:nth-child(6) {
+    background-color: green;
+}
+
+div p:nth-of-type(5) {
+    background-color: green;
+}
