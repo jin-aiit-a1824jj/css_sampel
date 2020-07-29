@@ -95,3 +95,17 @@ div#event {
     border-left: 1px solid #D1D1D1;
     border-top: 3px solid #59B0C1;
 }
+
+div#design h2 {
+    border-left: 5px solid #d86487;
+    border-bottom: 1px dashed #ccc;
+    margin-bottom: 10px;
+    padding-left: 10px;
+}
+
+div#event h2 {
+    border-left: 5px solid #59B0C1;
+    border-bottom: 1px dashed #ccc;
+    margin-bottom: 10px;
+    padding-left: 10px;
+}
